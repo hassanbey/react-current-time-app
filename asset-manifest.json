@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-current-time-app/static/css/main.943bd48c.css",
+    "main.js": "/react-current-time-app/static/js/main.7c174be2.js",
+    "index.html": "/react-current-time-app/index.html",
+    "main.943bd48c.css.map": "/react-current-time-app/static/css/main.943bd48c.css.map",
+    "main.7c174be2.js.map": "/react-current-time-app/static/js/main.7c174be2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.943bd48c.css",
+    "static/js/main.7c174be2.js"
+  ]
+}
